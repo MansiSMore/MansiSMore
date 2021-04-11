@@ -1,4 +1,5 @@
-### Hi there 👋
+### A Passionate Programmer 👋
+### I’m looking for collaboration...! 👯
 
 <!--
 **MansiSMore/MansiSMore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
